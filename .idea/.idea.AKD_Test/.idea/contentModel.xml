@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Usualnik\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Usualnik\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_AKD_Test.-159452236.00" t="ExcludeRecursive" />
+    <e p="D:\job\Unity_Lessons_stuff\Unity projects\AKD_Test" t="IncludeRecursive">
+      <e p="AKD_Test.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="GarageTriggerZone.cs" t="Include" />
+          <e p="MouseLook.cs" t="Include" />
+          <e p="PickUpObjects.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+        </e>
+        <e p="Animations" t="Include" />
+        <e p="Brick garages" t="Include">
+          <e p="Materials" t="Include" />
+          <e p="ModelsFBX" t="Include" />
+          <e p="Prefabs" t="Include" />
+          <e p="Textures" t="Include">
+            <e p="Albedo" t="Include" />
+            <e p="Heighr Map" t="Include" />
+            <e p="normal maps" t="Include" />
+            <e p="Occlusion" t="Include" />
+            <e p="roughness" t="Include" />
+            <e p="SpecularMetalic" t="Include" />
+          </e>
+        </e>
+        <e p="PickupTruck" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Material" t="Include">
+              <e p="Concrete" t="Include" />
+            </e>
+            <e p="Model" t="Include">
+              <e p="CarMaterials" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="Shelf" t="Include">
+          <e p="Materials" t="Include" />
+        </e>
+        <e p="Wooden Toy Pack" t="Include">
+          <e p="Materials" t="Include">
+            <e p="PNGs" t="Include" />
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="Wooden Blocks" t="Include" />
+            <e p="Wooden Dog" t="Include" />
+            <e p="Wooden Fishing Magnets" t="Include" />
+            <e p="Wooden Hammer Table" t="Include" />
+            <e p="Wooden Rattles" t="Include" />
+            <e p="Wooden Stackers" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
